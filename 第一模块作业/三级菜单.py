@@ -1,6 +1,6 @@
-#/usr/bin/env python
 #_*_ coding:utf-8 _*_
-__author__ = "shilu"
+# Author:ShiLu
+# Date:2017-10-17
 
 # 一级菜单
 
