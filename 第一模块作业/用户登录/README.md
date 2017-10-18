@@ -2,8 +2,8 @@
 #### 介绍  
 这是一个模拟用户登录的简易程序  
 - author: ShiLu  
--  date: 2017-08-30  
--  function:  
+- date: 2017-08-30  
+- function:  
 1.用户输入账号密码进行登录  
 2.用户信息保存在文件中  
 3.用户名或者密码输错三次锁定退出  
@@ -26,5 +26,6 @@
 #### 个人感想
 根据项目需求，首先快速思考一遍要实现哪些功能，并在大脑中建立模型；其次在ProcessOn上画出流程图；最后根据流程图，用代码对每个功能进行实现，并进行测试验证。  
 #### 个人博客和GitHub地址  
-[博客园地址](http://www.cnblogs.com/shilu/)
-[GitHub作业代码](https://github.com/shilulinc/hello-world.git)
+- [博客园地址](http://www.cnblogs.com/shilu/)
+- [GitHub代码和README](https://github.com/shilulinc/Python/tree/master/%E7%AC%AC%E4%B8%80%E6%A8%A1%E5%9D%97%E4%BD%9C%E4%B8%9A/%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95)
+
