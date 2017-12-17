@@ -127,7 +127,7 @@ if choice == "U":  # 如果输入U进入用户入口
                                           % (goods_item, salary2))
                                     print("\033[32;1m新购商品信息如下：%s\033[0m" % shopping_new)
                                 else:
-                                    print("余额还剩%s，余额不足，已退出！" % salary2)
+                                    print("\033[31;1m余额还剩%s，余额不足，已退出！\033[0m" % salary2)
                                     users_balance_func2()  # 调用用户购物后剩余薪水函数2
                                     exit()
                             else:
@@ -155,7 +155,7 @@ if choice == "U":  # 如果输入U进入用户入口
                               % (goods_item, salary1))
                         print("购物车信息如下：%s" % shopping_new)
                     else:
-                        print("余额还剩%s，余额不足，已退出！" % salary1)
+                        print("\033[31;1m余额还剩%s，余额不足，已退出！\033[0m" % salary1)
                         print("购物车信息如下：%s" % shopping_new)
                         users_balance_func1()  # 调用用户购物后剩余薪水函数1
                         exit()
@@ -167,8 +167,8 @@ if choice == "U":  # 如果输入U进入用户入口
                 for i in shopping_info_fd:
                     (key2, value2) = i.strip("\n").split(":", 1)
                     shopping_info_dic[key2] = value2
-            l_name = ["Tom", "Jack", "Rain"]
-            if name not in l_name:  # 如果输入name在已有的用户列表中
+            names_list = ["Tom", "Jack", "Rain"]
+            if name not in names_list:  # 如果输入name在已有的用户列表中
                 shopping_all = shopping_new
             else:
                 shopping_info_list = list(eval(shopping_info_dic[name]).items())  # 已购商品列表
