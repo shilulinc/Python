@@ -16,7 +16,7 @@ file1 = open("lock.txt", "r+")  # 以读模式打开被锁定用户的文件，�
 file1_list = file1.readlines()  # 读出被锁定用户文件的内容
 file1.close()  # 关闭文件
 
-file2 = open("user.txt", "r+")
+file2 = open("users_info.txt", "r+")
 file2_list = file2.readlines()
 file2.close()
 
