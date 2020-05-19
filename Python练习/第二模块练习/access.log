@@ -1,0 +1,3 @@
+2020-05-02 17:48:28,743 - TEST-LOG - WARNING - warn message
+2020-05-02 17:48:28,743 - TEST-LOG - ERROR - error message
+2020-05-02 17:48:28,743 - TEST-LOG - CRITICAL - critical message

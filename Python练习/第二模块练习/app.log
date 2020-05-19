@@ -1,0 +1,36 @@
+02/04/2018 06:02:40 PM logging_mod.py - WARNING : warning test
+02/04/2018 06:02:40 PM logging_mod.py - ERROR : error test
+02/04/2018 06:02:40 PM logging_mod.py - CRITICAL : critical test
+02/04/2018 09:11:23 PM logging_mod.py : 26 - WARNING : warning test
+02/04/2018 09:11:23 PM logging_mod.py : 27 - ERROR : error test
+02/04/2018 09:11:23 PM logging_mod.py : 28 - CRITICAL : critical test
+02/04/2018 09:14:02 PM logging_mod.py : 26 logging_mod - WARNING : warning test
+02/04/2018 09:14:02 PM logging_mod.py : 27 logging_mod - ERROR : error test
+02/04/2018 09:14:02 PM logging_mod.py : 28 logging_mod - CRITICAL : critical test
+02/04/2018 09:43:01 PM logging_mod.py : 26 logging_mod - WARNING : warning test
+02/04/2018 09:43:01 PM logging_mod.py : 27 logging_mod - ERROR : error test
+02/04/2018 09:43:01 PM logging_mod.py : 28 logging_mod - CRITICAL : critical test
+02/04/2018 09:43:29 PM logging_mod.py : 26 logging_mod - WARNING : warning test
+02/04/2018 09:43:29 PM logging_mod.py : 27 logging_mod - ERROR : error test
+02/04/2018 09:43:29 PM logging_mod.py : 28 logging_mod - CRITICAL : critical test
+02/04/2018 09:43:29 PM logging_mod.py : 32 logging_mod - WARNING : the app is beening running for a long time...
+02/04/2018 09:44:40 PM logging_mod.py : 26 logging_mod - WARNING : warning test
+02/04/2018 09:44:40 PM logging_mod.py : 27 logging_mod - ERROR : error test
+02/04/2018 09:44:40 PM logging_mod.py : 28 logging_mod - CRITICAL : critical test
+02/04/2018 09:44:40 PM logging_mod.py : 32 logging_mod - WARNING : the app is beening running for a long time...
+02/04/2018 09:44:41 PM logging_mod.py : 26 logging_mod - WARNING : warning test
+02/04/2018 09:44:41 PM logging_mod.py : 27 logging_mod - ERROR : error test
+02/04/2018 09:44:41 PM logging_mod.py : 28 logging_mod - CRITICAL : critical test
+02/04/2018 09:44:41 PM logging_mod.py : 32 logging_mod - WARNING : the app is beening running for a long time...
+02/04/2018 09:45:42 PM logging_mod.py : 26 <module> - WARNING : warning test
+02/04/2018 09:45:42 PM logging_mod.py : 27 <module> - ERROR : error test
+02/04/2018 09:45:42 PM logging_mod.py : 28 <module> - CRITICAL : critical test
+02/04/2018 09:45:42 PM logging_mod.py : 32 app_run - WARNING : the app is beening running for a long time...
+02/04/2018 09:45:51 PM logging_mod.py : 26 <module> - WARNING : warning test
+02/04/2018 09:45:51 PM logging_mod.py : 27 <module> - ERROR : error test
+02/04/2018 09:45:51 PM logging_mod.py : 28 <module> - CRITICAL : critical test
+02/04/2018 09:45:51 PM logging_mod.py : 32 app_run - WARNING : the app is beening running for a long time...
+05/02/2020 05:03:25 PM logging_mod.py : 26 <module> - WARNING : warning test
+05/02/2020 05:03:25 PM logging_mod.py : 27 <module> - ERROR : error test
+05/02/2020 05:03:25 PM logging_mod.py : 28 <module> - CRITICAL : critical test
+05/02/2020 05:03:25 PM logging_mod.py : 32 app_run - WARNING : the app is beening running for a long time...
