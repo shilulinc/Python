@@ -30,10 +30,10 @@ def bark(d):
 
 
 def walk(p):
-    print("person %s is walking..." %p['name'])<br><br>
+    print("person %s is walking..." %p['name'])
 
 d1 = dog("李磊","京巴")
 p1 = person("严帅",36,"F","运维")
 p2 = person("林海峰",27,"F","Teacher")
 
-walk(p1) bark(d1)
+bark(p1) #把人的对象传给了狗的方法
